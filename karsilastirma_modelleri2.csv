@@ -1,0 +1,9 @@
+answer,inference_time,tokens,model,score
+"Bu tahlil sonuçlarına göre hastanın şu anda endişe duyması gereken üç ana olası sağlık sorunu var: diyabet, tiroid disfonksiyonu veya karaciğer sorunları. Uzman bir doktora başvurması önemlidir, çünkü bu durumların doğru teşhisi ve tedavisi önemlidir. Hangi konuda özel bir uzmana görünmesi gerektiğini belirlemek için kansızlık içine girmemiz gerekebilir. Bu konuda nasıl yardımcı olabilirim?",2.539,90.0,gpt-3.5-turbo,
+Hastanızın tahlil sonuçlarına göre öncelikli olarak bir Endokrinoloji (iç salgı bezleri üzerine uzmanlaşmış bir alan ve bu da diyabet ve tiroid disfonksiyonları dahil olmak üzere bir dizi durumu içerir) uzmanına danışmanızı öneririm. Ancak hafif yüksek ALT seviyesi de bir karaciğer sorununa işaret edebilir. Bu durumda bir Gastroenteroloji uzmanına (sindirim sistemi ve karaciğer üzerine uzmanlaşmış bir alan) danışmanızı öneririm. Bu durumları birlikte değerlendirip doğru tedavi yolunu belirlemek önemlidir.,5.486,90.0,gpt-4,
+- ALT: 45 U/L (hafif yüksek,0.26,,BioBERT,0.00018391289631836116
+"Bu değerler, diyabet, tiroid",0.208,,ClinicalBERT,0.00029171613277867436
+"tahlili sonuçları: 
+- Glukoz: 155 mg",0.334,,BlueBERT,0.0002940176927950233
+sorunlarına işaret edebilir,0.189,,SciBERT,0.0009131818660534918
+"Bu değerler, diyabet",0.22,,PubMedBERT,0.00024319491058122367
