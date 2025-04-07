@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-# GPT Destekli Kan Tahlili Chatbotu (Kerem Metin - UTD-88)
+# Kan Tahlili Chatbotu (Kerem Metin - UTD-88)
 
 import os
 import gradio as gr
